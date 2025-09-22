@@ -1,0 +1,21 @@
+# Arduino build files
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+
+# Backup files
+*.bak
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Arduino IDE-specific
+*.cpp.d
+*.cpp.o
+*.d
+*.o
+*.a
